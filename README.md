@@ -1,5 +1,5 @@
 # edmfoptimization
-Provides data form JAMES publication on EDMF optimization
+Provides data from JAMES publication on EDMF optimization
 
 *of_scm.nc and of_qpm contain the objective function values for the grid-sampled SCM and the grid-sampled quadratic polynomial model, respectively.
 
